@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
@@ -19,6 +20,7 @@ namespace AllanNovalta.CSMViewGrade.Web
 
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+                .UseKestrel(options => { options.Listen(IPAddress.Loopback, 6200); })
                 .UseStartup<Startup>()
                 .Build();
     }

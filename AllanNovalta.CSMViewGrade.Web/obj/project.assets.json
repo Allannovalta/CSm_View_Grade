@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALLAN_Novalta\\Documents\\Seed\\AllanNovalta.CSMViewGrade\\AllanNovalta.CSMViewGrade.Web\\AllanNovalta.CSMViewGrade.Web.csproj",
+      "projectUniqueName": "C:\\Users\\ALLAN_Novalta\\Documents\\CSM_Website\\AllanNovalta.CSMViewGrade.Web\\AllanNovalta.CSMViewGrade.Web.csproj",
       "projectName": "AllanNovalta.CSMViewGrade.Web",
-      "projectPath": "C:\\Users\\ALLAN_Novalta\\Documents\\Seed\\AllanNovalta.CSMViewGrade\\AllanNovalta.CSMViewGrade.Web\\AllanNovalta.CSMViewGrade.Web.csproj",
+      "projectPath": "C:\\Users\\ALLAN_Novalta\\Documents\\CSM_Website\\AllanNovalta.CSMViewGrade.Web\\AllanNovalta.CSMViewGrade.Web.csproj",
       "packagesPath": "C:\\Users\\ALLAN_Novalta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALLAN_Novalta\\Documents\\Seed\\AllanNovalta.CSMViewGrade\\AllanNovalta.CSMViewGrade.Web\\obj\\",
+      "outputPath": "C:\\Users\\ALLAN_Novalta\\Documents\\CSM_Website\\AllanNovalta.CSMViewGrade.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
