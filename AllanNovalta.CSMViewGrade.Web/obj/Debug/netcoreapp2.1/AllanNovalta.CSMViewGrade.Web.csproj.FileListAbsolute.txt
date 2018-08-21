@@ -1,0 +1,11 @@
+C:\Users\ALLAN_Novalta\Documents\CSM_Website\AllanNovalta.CSMViewGrade.Web\bin\Debug\netcoreapp2.1\AllanNovalta.CSMViewGrade.Web.deps.json
+C:\Users\ALLAN_Novalta\Documents\CSM_Website\AllanNovalta.CSMViewGrade.Web\bin\Debug\netcoreapp2.1\AllanNovalta.CSMViewGrade.Web.runtimeconfig.json
+C:\Users\ALLAN_Novalta\Documents\CSM_Website\AllanNovalta.CSMViewGrade.Web\bin\Debug\netcoreapp2.1\AllanNovalta.CSMViewGrade.Web.runtimeconfig.dev.json
+C:\Users\ALLAN_Novalta\Documents\CSM_Website\AllanNovalta.CSMViewGrade.Web\bin\Debug\netcoreapp2.1\AllanNovalta.CSMViewGrade.Web.dll
+C:\Users\ALLAN_Novalta\Documents\CSM_Website\AllanNovalta.CSMViewGrade.Web\bin\Debug\netcoreapp2.1\AllanNovalta.CSMViewGrade.Web.pdb
+C:\Users\ALLAN_Novalta\Documents\CSM_Website\AllanNovalta.CSMViewGrade.Web\obj\Debug\netcoreapp2.1\AllanNovalta.CSMViewGrade.Web.csprojAssemblyReference.cache
+C:\Users\ALLAN_Novalta\Documents\CSM_Website\AllanNovalta.CSMViewGrade.Web\obj\Debug\netcoreapp2.1\AllanNovalta.CSMViewGrade.Web.csproj.CoreCompileInputs.cache
+C:\Users\ALLAN_Novalta\Documents\CSM_Website\AllanNovalta.CSMViewGrade.Web\obj\Debug\netcoreapp2.1\AllanNovalta.CSMViewGrade.Web.AssemblyInfoInputs.cache
+C:\Users\ALLAN_Novalta\Documents\CSM_Website\AllanNovalta.CSMViewGrade.Web\obj\Debug\netcoreapp2.1\AllanNovalta.CSMViewGrade.Web.AssemblyInfo.cs
+C:\Users\ALLAN_Novalta\Documents\CSM_Website\AllanNovalta.CSMViewGrade.Web\obj\Debug\netcoreapp2.1\AllanNovalta.CSMViewGrade.Web.dll
+C:\Users\ALLAN_Novalta\Documents\CSM_Website\AllanNovalta.CSMViewGrade.Web\obj\Debug\netcoreapp2.1\AllanNovalta.CSMViewGrade.Web.pdb
